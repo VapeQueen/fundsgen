@@ -1,0 +1,75 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1728px;
+  height: 80px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.asset32x3 {
+  position: absolute;
+  left: 199px;
+  top: 27px;
+  width: 142px;
+  height: 27px;
+  background-image:/* webpackIgnore: true */ url('/assets/asset32x3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.aboutUs {
+  color: #000;
+  font-size: 16px;
+  line-height: 120%;
+  font-weight: 500;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+  position: absolute;
+  left: 760px;
+  top: 30px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.campaign {
+  color: #000;
+  font-size: 16px;
+  line-height: 120%;
+  font-weight: 500;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+  position: absolute;
+  left: 1093px;
+  top: 30px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.contactUs {
+  color: #000;
+  font-size: 16px;
+  line-height: 120%;
+  font-weight: 500;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+  position: absolute;
+  left: 1438px;
+  top: 30px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

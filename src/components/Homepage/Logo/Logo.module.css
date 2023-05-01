@@ -1,0 +1,19 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 142px;
+  height: 27px;
+  align-items: flex-start;
+}
+.asset32x3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('/assets/asset32x33.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

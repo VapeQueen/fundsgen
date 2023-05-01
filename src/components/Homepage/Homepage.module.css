@@ -1,0 +1,1115 @@
+.buttons.buttons {
+  left: 194px;
+  top: 825px;
+  width: 261px;
+  height: 82px;
+  place-content: center;
+  align-items: center;
+}
+.donateNow {
+  color: #fff;
+  font-size: 24px;
+  line-height: 22.8571px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.8px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.navbar.navbar {
+  background-color: initial;
+}
+.asset32x3.asset32x3 {
+  background-image:/* webpackIgnore: true */ url('/assets/asset32x32.png');
+}
+.aboutUs {
+  color: #fff;
+  font-size: 16px;
+  line-height: 120%;
+  font-weight: 500;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+  position: absolute;
+  left: 760px;
+  top: 30px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.campaign {
+  color: #fff;
+  font-size: 16px;
+  line-height: 120%;
+  font-weight: 500;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+  position: absolute;
+  left: 1093px;
+  top: 30px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.contactUs {
+  color: #fff;
+  font-size: 16px;
+  line-height: 120%;
+  font-weight: 500;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+  position: absolute;
+  left: 1438px;
+  top: 30px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.footer.footer {
+  left: 178px;
+  top: 6750px;
+}
+.asset32x32.asset32x32.asset32x32 {
+  background-image:/* webpackIgnore: true */ url('/assets/asset32x35.png');
+}
+.component1.component1 {
+  left: 125px;
+  top: 4688px;
+}
+.component4.component4 {
+  left: 678px;
+  top: 4688px;
+}
+.sponsorAChild {
+  color: #fff;
+  font-size: 32px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 115px;
+  top: 122px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.buttons2.buttons2 {
+  left: 66px;
+  top: 784px;
+  width: 440px;
+  height: 80px;
+  place-content: center;
+  align-items: center;
+  border-radius: 30px;
+  background-color: #fff;
+}
+.donateNow2 {
+  color: #217851;
+  font-size: 20px;
+  line-height: 22.8571px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.8px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 1728px;
+  height: 7325px;
+  align-items: flex-start;
+  background-color: #217851;
+  overflow: hidden;
+}
+.frame25 {
+  position: absolute;
+  left: 864px;
+  top: 0;
+  width: 864px;
+  height: 1177px;
+  align-items: flex-start;
+  background-color: #edb103;
+  overflow: hidden;
+}
+.rectangle2192 {
+  position: absolute;
+  left: -2px;
+  top: 209px;
+  width: 678px;
+  height: 968px;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle2192.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.changeWillNotComeIfWeWaitForSo {
+  color: #fff;
+  font-size: 20px;
+  line-height: 26.4px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 194px;
+  top: 697px;
+  width: 542px;
+  height: min-content;
+  flex-direction: column;
+}
+.helpingTheGreatPeopleOfBurkina {
+  color: #fff;
+  font-size: 64px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 194px;
+  top: 441px;
+  width: 566px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame18 {
+  position: absolute;
+  left: 0;
+  top: 1177px;
+  width: 1728px;
+  height: 836px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.learnAboutWhatWeDo {
+  color: #023c22;
+  font-size: 64px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 426px;
+  top: 134px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.childrenSFeeding {
+  color: #023c22;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 193px;
+  top: 607px;
+  width: 185px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.womenEmpowerment {
+  color: #023c22;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1297px;
+  top: 614px;
+  width: 290px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.communityServices {
+  color: #023c22;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 999px;
+  top: 622px;
+  width: 183px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.girlSEducation {
+  color: #023c22;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 563px;
+  top: 616px;
+  width: 181px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.group41 {
+  position: absolute;
+  left: 188px;
+  top: 345px;
+  width: 1351px;
+  height: 194px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.frame19 {
+  position: absolute;
+  left: 0;
+  top: 836px;
+  width: 1728px;
+  height: 1014px;
+  background-color: #08c16f;
+  overflow: hidden;
+}
+.frame20 {
+  position: absolute;
+  left: 0;
+  top: 2013px;
+  width: 1728px;
+  height: 943px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.ourImpactSince2001 {
+  position: absolute;
+  left: 426px;
+  top: 121px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 72px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #fff;
+  font-size: 72px;
+  font-weight: 300;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+}
+.label2 {
+  color: #fff;
+  font-size: 72px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+}
+.vector {
+  position: absolute;
+  left: 13.7587%;
+  right: 76.3744%;
+  top: 35.6045%;
+  bottom: 46.3232%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+._167M {
+  color: #fff;
+  font-size: 64px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 266px;
+  top: 633px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.weHaveServerd167MPeople2001 {
+  color: #fff;
+  font-size: 24px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 177px;
+  top: 758px;
+  width: 369px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.forkKnife {
+  position: absolute;
+  left: 717px;
+  top: 335px;
+  width: 186px;
+  height: 172.23px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+._25800 {
+  color: #fff;
+  font-size: 64px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 667px;
+  top: 633px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.childrenInOurStrategicFeedingP {
+  color: #fff;
+  font-size: 24px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 582px;
+  top: 758px;
+  width: 456px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.group3856 {
+  position: absolute;
+  left: 1258px;
+  top: 326px;
+  width: 186px;
+  height: 189.2654px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+._13000 {
+  color: #fff;
+  font-size: 64px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1212px;
+  top: 633px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.volunteerMobilisedInAcrossAfri {
+  color: #fff;
+  font-size: 24px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1152px;
+  top: 764px;
+  width: 399px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.frame24 {
+  position: absolute;
+  left: 199px;
+  top: 3426px;
+  width: 360px;
+  height: 283px;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.frame21 {
+  position: absolute;
+  left: 210px;
+  top: 3416px;
+  width: 362px;
+  height: 283px;
+  align-items: flex-start;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+}
+._1ChildIn13DiesBeforeTheir5thBi {
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 39px;
+  top: 97px;
+  width: 284px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.frame242 {
+  position: absolute;
+  left: 192px;
+  top: 3776px;
+  width: 360px;
+  height: 283px;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.frame212 {
+  position: absolute;
+  left: 203px;
+  top: 3766px;
+  width: 362px;
+  height: 283px;
+  align-items: flex-start;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+}
+._5InEvery100ChildrenIsMurdered {
+  position: absolute;
+  left: 39px;
+  top: 112px;
+  width: 284px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.frame243 {
+  position: absolute;
+  left: 678px;
+  top: 3431px;
+  width: 360px;
+  height: 283px;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.frame213 {
+  position: absolute;
+  left: 689px;
+  top: 3421px;
+  width: 362px;
+  height: 283px;
+  align-items: flex-start;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+}
+._25OfChildrenSufferFromStunting {
+  position: absolute;
+  left: 39px;
+  top: 97px;
+  width: 284px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock3 {
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.frame244 {
+  position: absolute;
+  left: 671px;
+  top: 3781px;
+  width: 360px;
+  height: 283px;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.frame214 {
+  position: absolute;
+  left: 682px;
+  top: 3771px;
+  width: 362px;
+  height: 283px;
+  align-items: flex-start;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+}
+._32OfGirlsAges1519AreMarriedAnd {
+  position: absolute;
+  left: 39px;
+  top: 106px;
+  width: 284px;
+  height: 72px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock5 {
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock7 {
+  margin-top: 0;
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock8 {
+  margin-top: 0;
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.frame245 {
+  position: absolute;
+  left: 1157px;
+  top: 3431px;
+  width: 360px;
+  height: 283px;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.frame215 {
+  position: absolute;
+  left: 1168px;
+  top: 3421px;
+  width: 362px;
+  height: 283px;
+  align-items: flex-start;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+}
+._36OfChildrenAreOutOfSchoolAnd6 {
+  position: absolute;
+  left: 39px;
+  top: 67px;
+  width: 284px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock9 {
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock10 {
+  margin-top: 0;
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock11 {
+  margin-top: 0;
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock12 {
+  margin-top: 0;
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.frame246 {
+  position: absolute;
+  left: 1150px;
+  top: 3781px;
+  width: 360px;
+  height: 283px;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.frame216 {
+  position: absolute;
+  left: 1161px;
+  top: 3771px;
+  width: 362px;
+  height: 283px;
+  align-items: flex-start;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+}
+._42AreEngagedInChildLaborInstea {
+  position: absolute;
+  left: 39px;
+  top: 82px;
+  width: 284px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock13 {
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock14 {
+  margin-top: 0;
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock15 {
+  margin-top: 0;
+  color: #023c22;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.frame26 {
+  position: absolute;
+  left: 0;
+  top: 2986px;
+  width: 1728px;
+  height: 280px;
+  align-items: flex-start;
+  background-color: #edb103;
+  overflow: hidden;
+}
+.challengesForChildren {
+  position: absolute;
+  left: 246px;
+  top: 113px;
+  width: 1236px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.labelWrapper2 {
+  font-size: 72px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label3 {
+  color: #fff;
+  font-size: 72px;
+  line-height: 119.5%;
+  font-weight: 300;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+.label4 {
+  color: #fff;
+  font-size: 72px;
+  line-height: 119.5%;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+.frame27 {
+  position: absolute;
+  left: 0;
+  top: 4195px;
+  width: 1728px;
+  height: 273px;
+  align-items: flex-start;
+  background-color: #edb103;
+  overflow: hidden;
+}
+.howYouCanHelpChildrenInBurkina {
+  color: #fff;
+  font-size: 64px;
+  font-weight: 600;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 246px;
+  top: 58px;
+  width: 1236px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.ourLatestBlog {
+  color: #fff;
+  font-size: 96px;
+  line-height: 88px;
+  font-weight: 500;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 485px;
+  top: 5274px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.component5 {
+  position: absolute;
+  left: 1231px;
+  top: 4688px;
+  width: 373px;
+  height: 293px;
+  align-items: flex-start;
+}
+.frame247 {
+  position: absolute;
+  left: 0;
+  right: 3.4853%;
+  top: 3.413%;
+  bottom: 0;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.frame217 {
+  position: absolute;
+  left: 2.9491%;
+  right: 0;
+  top: 0;
+  bottom: 3.413%;
+  align-items: flex-start;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  background-color: #08c16f;
+  overflow: hidden;
+}
+.sponsorAChild2 {
+  position: absolute;
+  left: 75px;
+  top: 103px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock16 {
+  color: #fff;
+  font-size: 32px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+}
+.textBlock17 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 32px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+}
+.frame28 {
+  position: absolute;
+  left: 0;
+  top: 5474px;
+  width: 1728px;
+  height: 968px;
+  align-items: flex-start;
+  background-color: #edb103;
+  overflow: hidden;
+}
+.blogCard {
+  position: absolute;
+  left: 1221px;
+  top: 104px;
+  width: 440px;
+  height: 570px;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px;
+  border-radius: 16px;
+  background-color: #fff;
+  box-shadow: 0px 10px 4px 0px #00000040;
+}
+.container {
+  flex: 1;
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #ebebeb;
+  background-image:/* webpackIgnore: true */ url('/assets/container2.jpeg'),
+    /* webpackIgnore: true */ url('/assets/container.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover, cover;
+}
+.charityLaw {
+  color: #666;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.charityGroupToSueLibyaCoastgua {
+  color: #333;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.kabbaniHopesToExpandThisInitia {
+  color: #666;
+  font-size: 14px;
+  line-height: 32px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.blogCard2 {
+  position: absolute;
+  left: 643px;
+  top: 104px;
+  width: 441px;
+  height: 570px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 16px;
+  border-radius: 16px;
+  background-color: #fff;
+  box-shadow: 0px 10px 4px 0px #00000040;
+}
+.container2 {
+  flex: 1;
+  align-self: stretch;
+  border-radius: 8px;
+  background-image:/* webpackIgnore: true */ url('/assets/container3.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.theNeedy {
+  color: #666;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.egyptANewBreadthOfLifeForTheNe {
+  color: #333;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 444px;
+  height: min-content;
+  flex-direction: column;
+}
+.forThoseWhoCannotAffordNewClot {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.textBlock18 {
+  color: #666;
+  font-size: 14px;
+  line-height: 32px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock19 {
+  margin-top: 0;
+  color: #666;
+  font-size: 14px;
+  line-height: 32px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.blogCard3 {
+  position: absolute;
+  left: 67px;
+  top: 104px;
+  width: 439px;
+  height: 570px;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px;
+  border-radius: 16px;
+  background-color: #fff;
+  box-shadow: 0px 10px 4px 0px #00000040;
+}
+.container3 {
+  flex: 1;
+  align-self: stretch;
+  border-radius: 8px;
+  background-image:/* webpackIgnore: true */ url('/assets/container4.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rateOfSchoolDropoutIncreasing {
+  color: #666;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.foodRescueSchemeFeedsVulnerabl {
+  color: #333;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: bold;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.itIsLikeAGreenInitiativeThousa {
+  color: #666;
+  font-size: 14px;
+  line-height: 32px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}

@@ -1,0 +1,47 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 373px;
+  height: 293px;
+  align-items: flex-start;
+}
+.frame24 {
+  position: absolute;
+  left: 0;
+  right: 3.4853%;
+  top: 3.413%;
+  bottom: 0;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.frame21 {
+  position: absolute;
+  left: 2.9491%;
+  right: 0;
+  top: 0;
+  bottom: 3.413%;
+  align-items: flex-start;
+  outline: solid 3px #edb103;
+  outline-offset: -3px;
+  border-radius: 20px;
+  background-color: #08c16f;
+  overflow: hidden;
+}
+.sponsorAChild {
+  color: #fff;
+  font-size: 32px;
+  font-family: Clash Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 39px;
+  top: 122px;
+  width: 284px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
